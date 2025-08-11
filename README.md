@@ -1,6 +1,6 @@
 # Local Lucee Development Environment
 
-A comprehensive, automated setup for local Lucee CFML development with HTTPS support, file watching, and multi-client site management.
+A comprehensive, automated setup for local Lucee CFML development with HTTPS support, file watching, multi-client site management, and local debugger.
 
 ## 🚀 Quick Start
 
